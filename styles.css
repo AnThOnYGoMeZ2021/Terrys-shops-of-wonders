@@ -1,0 +1,32 @@
+#hello{ width: 500px;
+    height: 400px;
+}
+    
+
+h2{
+    color:white;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3EFXEPtqUuEh30AXB508j7qs_QpnjzJg1b68IYyG3nMzm326");
+}
+
+#hey{
+    width: 500px;
+    height: 500px;
+}
+
+#strength{
+    width: 500px;
+    height: 500px;
+}
+
+#messi{
+    width: 500px;
+    height: 500px;
+}
+
+.spells {
+    display: flex;
+    justify-content: space-around;
+}
